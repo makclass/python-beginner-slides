@@ -1,6 +1,6 @@
-# Why Python
+# Introducing Python
 
-CM540 Beginning Python
+By Makzan
 
 ----
 
@@ -8,15 +8,10 @@ CM540 Beginning Python
 
 ----
 
-Python 1 was released in 1991
-
-----
-
-Python 2 was released in 2000
-
-----
-
-Python 3 was released in 2008
+- Python 0.9 was released in 1991
+- Python 1.0 was released in 1994
+- Python 2.0 was released in 2000
+- Python 3.0 was released in 2008
 
 ----
 
@@ -29,6 +24,25 @@ Python 3 was released in 2008
 - High level
 - Interpreted
 - General-purpose dynamic programming language
+
+----
+
+# What is programming language?
+
+- A set of rules to tell computer what to do
+- Program runs exactly what we tell it to run
+- Automate things to boost our productivity
+
+----
+
+# What Python can do for us?
+
+- Automate repeated operations
+- Fetch data through API
+- Fetch data on web
+- Data process with our pre-defined formulas
+- Machine learning and beyond
+- Web service projects
 
 ----
 
@@ -131,9 +145,9 @@ Jupyter = Interactive
 
 ----
 
-# What is PIP?
+# 3rd Party Modules and `pip`
 
-`[PIP](https://pip.pypa.io/en/stable/quickstart/)` is the Python Package Installer. It allows us to install third party modules easily.
+`[pip](https://pip.pypa.io/en/stable/quickstart/)` is the Python Package Installer. It allows us to install third party modules easily.
 
 ----
 
@@ -154,7 +168,7 @@ Anaconda distribution allows us to get started with Python easily without worryi
 
 # Running Python
 
----
+----
 
 ^ Running Python
 
@@ -162,6 +176,15 @@ Anaconda distribution allows us to get started with Python easily without worryi
 - Running in Jupyter
 - Running directly on web browsers
 - Running on iPad
+
+----
+
+^ Running in command line / terminal
+
+1. Put python code in `anyname.py` file
+2. Open terminal
+3. Navigate to the folder containing the file
+4. Type `python anyname.py`
 
 ----
 
