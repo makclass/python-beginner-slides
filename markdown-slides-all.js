@@ -105,6 +105,8 @@ function setupReader() {
   var result = md.render(markdownText);
 
   $("body").append(`<main>${result}</main>`);
+	
+  Prism.highlightAll();
 }
 
 function setupSlides() {
@@ -218,6 +220,8 @@ function setupSlides() {
       },
     },
   });
+	
+  Prism.highlightAll();
 }
 
 
