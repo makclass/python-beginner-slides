@@ -172,3 +172,15 @@ list = [80, 59, 62, 70, 99, 40, 51]
 for score in list:
     print("{}: {}".format(score, is_student_pass(score)) )
 ```
+
+----
+
+^ Better solution
+
+
+```python
+list = [80, 59, 62, 70, 99, 40, 51]
+for score in list:
+    result = is_student_pass(score)
+    print("{}: {}".format(score, result) )
+```
