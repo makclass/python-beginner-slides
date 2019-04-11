@@ -142,7 +142,10 @@ main.slides {
   text-align: left;
   font-size: calc( 1.5vmax + 0.6vmin ) !important;
   overflow-x: scroll;
-  white-space: pre-wrap;
+  white-space: pre-wrap !important;
+}
+.swiper-slide pre code {
+  white-space: pre-wrap !important;
 }
 .swiper-slide ol, .swiper-slide ul {
   min-width: 40%;
