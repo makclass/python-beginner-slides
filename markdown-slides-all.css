@@ -136,6 +136,8 @@ main.slides {
   object-fit: contain;
 }
 .swiper-slide pre {
+  min-width: 50vw;
+  border-radius: 1vw;
   max-width: 100%;
   text-align: left;
   font-size: calc( 1.5vmax + 0.6vmin ) !important;
