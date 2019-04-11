@@ -138,7 +138,7 @@ main.slides {
 .swiper-slide pre {
   max-width: 100%;
   text-align: left;
-  font-size: calc( 1vmax + 0.6vmin ) !important;
+  font-size: calc( 1.5vmax + 0.6vmin ) !important;
   overflow-x: scroll;
   white-space: pre-wrap;
 }
