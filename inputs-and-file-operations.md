@@ -236,7 +236,7 @@ while True:
         guests.append(value)
 
 with open("guests.txt", "a") as file_obj:
-    file_obj.write("\n".join(items))
+    file_obj.write("\n".join(guests))
     file_obj.write("\n")
 
 print("List saved to guests.txt.")
