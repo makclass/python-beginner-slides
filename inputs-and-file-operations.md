@@ -235,7 +235,7 @@ while True:
     if len(value) > 0:
         guests.append(value)
 
-with open(f"{list_name}.txt", "a") as file_obj:
+with open("guests.txt", "a") as file_obj:
     file_obj.write("\n".join(items))
     file_obj.write("\n")
 
