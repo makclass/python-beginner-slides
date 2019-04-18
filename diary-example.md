@@ -148,11 +148,11 @@ def ask_for_input():
 
 ---- 
 
-1) For the `read_last_entries()`, assume now we want to dynamically set the number of lines we want to read. How to change the `read_last_entries` method?
+1: For the `read_last_entries()`, assume now we want to dynamically set the number of lines we want to read. How to change the `read_last_entries` method?
 
 ---- 
 
-2) What if we want to separate the diary files by date?
+2: What if we want to separate the diary files by date?
 
 For example, we want to have a `diary-2019-04-15.txt` file for entries from 2019-04-15 and `diary-2019-04-16.txt` file for entries from 2019-04-16. How to do it?
 
