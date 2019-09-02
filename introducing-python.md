@@ -208,6 +208,6 @@ Anaconda distribution allows us to get started with Python easily without worryi
 ^ Running on iPad
 
 - [Pythonista](http://omz-software.com/pythonista/)
-- [Carnets](https://mobile.twitter.com/nholzschuch/status/1111257780512571392) (still in Beta)
+- [Carnets](https://mobile.twitter.com/nholzschuch/status/1111257780512571392)
 
 
